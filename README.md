@@ -28,7 +28,7 @@ Criando projetos com identidade forte e visual moderno
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔥 ThermoCharge | Dispositivo com monitoramento de temperatura e usabilidade real | HTML, CSS, JavaScript |
-| 🌊 Susanoo Streetwear | Loja digital inspirada na cultura japonesa, logo de onda e estética urbana | HTML, CSS, JavaScript |
+| 🌊 Susanoo Streetwear | Loja digital inspirada na cultura japonesa, logo de onda e estética urbana | HTML, CSS, JavaScript e PHP |
 
 ---
 
