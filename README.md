@@ -1,5 +1,5 @@
 <!-- Banner ou frase de destaque -->
-<h1 align="center">👋 Olá, eu sou <strong>[Vinicius Queiroz]</strong></h1>
+<h1 align="center">👋 Olá, eu sou <strong>Vinicius Queiroz</strong></h1>
 <p align="center">
 Estudante de Desenvolvimento de Sistemas no SENAI<br>
 Focado em Web, automações e boas práticas de programação
