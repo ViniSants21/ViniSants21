@@ -1,21 +1,24 @@
-<!-- Banner ou frase de destaque -->
-<h1 align="center">👋 Olá, eu sou <strong>Vinicius Queiroz</strong></h1>
+<h1 align="center">Vinicius Queiroz</h1>
 <p align="center">
-Estudante de Desenvolvimento de Sistemas no SENAI<br>
-Focado em Web, automações e boas práticas de programação
+Estudante de Desenvolvimento de Sistemas — SENAI  
+Focado em Web, Automação e Segurança da Informação  
+Criando projetos com identidade forte e visual moderno
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+</div>
 
 ---
 
-
-### 🚀 Tecnologias que estudo  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite; filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+### 🚀 Tecnologias
+<div align="center">
+  <img alt="HTML" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Git" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="45" width="55" style="margin: 10px; animation: pulse 1s infinite; filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 
 <style>
@@ -28,31 +31,28 @@ Focado em Web, automações e boas práticas de programação
 
 ---
 
-### 📌 Projetos em destaque
-| Nome | Descrição | Tecnologias |
-|------|-----------|-------------|
-| 🌊 SUSANOO | em breve | HTML • CSS • JS • PHP|
-| 🤖 Thermo Charger | pronto | HTML • CSS • JS |
+### ⭐ Portfólio de Projetos
 
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 🔥 ThermoCharge | Dispositivo com monitoramento de temperatura e usabilidade real | HTML, CSS, JavaScript |
+| 🌊 Susanoo Streetwear | Loja digital inspirada na cultura japonesa, logo de onda e estética urbana | HTML, CSS, JavaScript |
 
 ---
 
-### 📊 Estatísticas  
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=[SEU USUÁRIO]&show_icons=true&theme=purple&title_color=bb86fc&icon_color=bb86fc&text_color=c9b6ff&bg_color=00000000"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU USUÁRIO]&layout=compact&theme=purple&title_color=bb86fc&text_color=c9b6ff&bg_color=00000000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vinicius172321&show_icons=true&theme=midnight-purple&title_color=bb86fc&icon_color=bb86fc&text_color=c9b6ff&bg_color=00000000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius172321&layout=compact&theme=midnight-purple&title_color=bb86fc&text_color=c9b6ff&bg_color=00000000"/>
 </div>
 
 ---
 
 ### 📫 Contato
-<div align="left">
 
 📍 Brasil  
-✉️ Email: **vincius172321@gmail.com**  
-
-
-</div>
+✉️ vinicius172321@gmail.com  
 
 ---
 
