@@ -31,9 +31,9 @@ Focado em Web, automações e boas práticas de programação
 ### 📌 Projetos em destaque
 | Nome | Descrição | Tecnologias |
 |------|-----------|-------------|
-| 🔮 Projeto 1 | em breve | HTML • CSS • JS |
-| 🤖 Projeto 2 | em breve | Python |
-| 🎲 Projeto 3 | em breve | JS |
+| 🌊 SUSANOO | em breve | HTML • CSS • JS • PHP|
+| 🤖 Thermo Charger | pronto | HTML • CSS • JS |
+
 
 ---
 
