@@ -13,9 +13,11 @@ Foco em **Desenvolvimento Web, Sistemas, Automação e Segurança da Informaçã
 <a href="https://susanoo.com.br">
   <img src="https://img.shields.io/badge/SUSANOO-8A2BE2?style=for-the-badge&logoColor=white"/>
 </a>
+
 <a href="mailto:viniciusqueiroz172321@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/ViniSants21">
   <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -44,18 +46,25 @@ DESIGN × TECNOLOGIA × EXPERIÊNCIA
 
 <img alt="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="PHP" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="Flutter" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 &nbsp;&nbsp;
+
 <img alt="GitHub" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 </div>
@@ -79,7 +88,9 @@ DESIGN × TECNOLOGIA × EXPERIÊNCIA
 ## Projetos em destaque
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌊 SUSANOO
@@ -92,12 +103,12 @@ Plataforma e ecossistema de soluções digitais focados em conectar negócios à
 
 <br>
 
-<a href="(https://github.com/kaua-souza74/Susanoo_final.git)">
-<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/kaua-souza74/Susanoo_final">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://susanoo.com.br">
-<img src="https://img.shields.io/badge/ACESSAR%20SITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ACESSAR%20SITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -117,9 +128,11 @@ Projeto envolvendo monitoramento de temperatura, hardware e desenvolvimento de u
 <img src="https://img.shields.io/badge/HARDWARE%20%2B%20SOFTWARE-8A2BE2?style=for-the-badge"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚡ AutoPrime
@@ -129,7 +142,7 @@ Projeto web desenvolvido com foco em interface, estrutura de aplicação e exper
 <br>
 
 <a href="https://github.com/ViniSants21/autoprime">
-<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -143,11 +156,13 @@ Projeto envolvendo inteligência artificial e construção de aplicações integ
 <br>
 
 <a href="https://github.com/ViniSants21/Voltz-GPT">
-<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -175,6 +190,8 @@ Projeto envolvendo inteligência artificial e construção de aplicações integ
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniSants21&theme=midnight-purple&hide_border=true&background=070707&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
@@ -201,18 +218,18 @@ Projeto envolvendo inteligência artificial e construção de aplicações integ
 
 <div align="center">
 
-**Vinicius Santos**
+### Vinicius Santos
 
 Desenvolvimento de Sistemas • Brasil
 
 <br>
 
 <a href="mailto:viniciusqueiroz172321@gmail.com">
-<img src="https://img.shields.io/badge/viniciusqueiroz172321%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/viniciusqueiroz172321%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ViniSants21">
-<img src="https://img.shields.io/badge/@ViniSants21-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/@ViniSants21-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
