@@ -34,7 +34,7 @@ Atualmente desenvolvo projetos envolvendo aplicações web, sistemas, integraç�
 
 Também faço parte do desenvolvimento da **SUSANOO**, projeto voltado à criação de soluções digitais e presença online para negócios.
 
-```text
+```text id="g9ziwc"
 DESIGN × TECNOLOGIA × EXPERIÊNCIA
 ```
 
@@ -95,7 +95,7 @@ DESIGN × TECNOLOGIA × EXPERIÊNCIA
 
 ### 🌊 SUSANOO
 
-Plataforma e ecossistema de soluções digitais focados em conectar negócios à tecnologia através de experiências modernas, acessíveis e profissionais.
+Plataforma de soluções digitais focada em conectar negócios à tecnologia por meio de experiências modernas, acessíveis e profissionais.
 
 **Principais conceitos**
 
@@ -103,7 +103,7 @@ Plataforma e ecossistema de soluções digitais focados em conectar negócios à
 
 <br>
 
-<a href="https://github.com/kaua-souza74/Susanoo.git">
+<a href="https://github.com/kaua-souza74/Susanoo">
   <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -139,6 +139,10 @@ Projeto envolvendo monitoramento de temperatura, hardware e desenvolvimento de u
 
 Projeto web desenvolvido com foco em interface, estrutura de aplicação e experiência digital.
 
+**Principais conceitos**
+
+`Web Development` `Responsive Design` `UI/UX`
+
 <br>
 
 <a href="https://github.com/ViniSants21/autoprime">
@@ -149,14 +153,18 @@ Projeto web desenvolvido com foco em interface, estrutura de aplicação e exper
 
 <td width="50%" valign="top">
 
-### 🤖 Voltz GPT
+### 🧠 Mindly
 
-Projeto envolvendo inteligência artificial e construção de aplicações integradas a tecnologias modernas.
+Projeto desenvolvido com foco em **organização, produtividade e experiência digital**, explorando uma interface moderna e funcional.
+
+**Principais conceitos**
+
+`Productivity` `UI/UX` `Web Development` `User Experience`
 
 <br>
 
-<a href="https://github.com/ViniSants21/Voltz-GPT">
-  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ViniSants21/Mindly-final">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -169,7 +177,7 @@ Projeto envolvendo inteligência artificial e construção de aplicações integ
 
 ## Atualmente estudando
 
-```text
+```text id="c2ak0b"
 01. Desenvolvimento de sistemas e aplicações web
 02. Integração entre front-end e back-end
 03. Bancos de dados e APIs
