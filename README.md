@@ -93,7 +93,7 @@ DESIGN × TECNOLOGIA × EXPERIÊNCIA
 
 <td width="50%" valign="top">
 
-### 🌊 SUSANOO
+###  SUSANOO
 
 Plataforma de soluções digitais focada em conectar negócios à tecnologia por meio de experiências modernas, acessíveis e profissionais.
 
