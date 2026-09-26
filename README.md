@@ -103,7 +103,7 @@ Plataforma e ecossistema de soluções digitais focados em conectar negócios à
 
 <br>
 
-<a href="https://github.com/kaua-souza74/Susanoo_final">
+<a href="https://github.com/kaua-souza74/Susanoo.git">
   <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
